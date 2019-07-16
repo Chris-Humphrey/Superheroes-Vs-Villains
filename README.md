@@ -12,9 +12,9 @@ This was a project created during my time in Digital Crafts. This was the first 
  * jQuery
  * APIs
 
-<h2>Comparison</h2>
+<h2>Preview</h2>
 <img src="img-5.jpg" style="width= 30px">
-To see the full code, please visit <a href="https://github.com/Chris-Humphrey/Burger-Restaurant-Remake">Restaurant Remake</a> on Github.
+To see the full code, please visit <a href="https://github.com/Chris-Humphrey/Superheroes-Vs-Villains">Superheroes vs Villains</a> on Github.
 
 <h2>Author</h2>
 Chris Humphrey

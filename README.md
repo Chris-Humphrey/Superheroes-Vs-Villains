@@ -13,7 +13,7 @@ This was a project created during my time in Digital Crafts. This was the first 
  * APIs
 
 <h2>Comparison</h2>
-<img src="images/screenshot.jpg" style="width= 30px">
+<img src="images/img-5.jpg" style="width= 30px">
 To see the full code, please visit <a href="https://github.com/Chris-Humphrey/Burger-Restaurant-Remake">Restaurant Remake</a> on Github.
 
 <h2>Author</h2>

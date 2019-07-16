@@ -46,7 +46,7 @@ $(function(){
         let $displayInfo = $('#information');
         let $displayList = $('<div>');
         $displayInfo.append($displayList).html(`<img style="height: 475px; width: 350px;" class="boxShadow" src = "${image}"></img> <br>
-        <div class="white">
+        <div class="white col-6">
         <h1 class="title"><b>${name}</b></h1>
         <b>Strength: </b> ${strength} <br> 
         <b>Speed: </b> ${speed} <br>
@@ -57,7 +57,7 @@ $(function(){
         let $displayInfo2 = $('#information2');
         let $displayList = $('<div>');
         $displayInfo2.append($displayList).html(`<img style="height: 475px; width: 350px;" class="boxShadow" src = "${image}"></img> <br>
-        <div class="white">
+        <div class="white col-6">
         <h1 class="title"><b>${name}</b></h1>
         <b>Strength: </b> ${strength} <br> 
         <b>Speed: </b> ${speed} <br>
